@@ -2,3 +2,5 @@ test1
 
 Update with TortoiseGit
 One more line
+Update with GitBash
+Update with TortoiseGit
